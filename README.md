@@ -1,5 +1,5 @@
 # Discordbot
-Bot simples para músicas no discord.
+#Simple bot for music playing on discord
 
 Requirements 
 - Node version 12
